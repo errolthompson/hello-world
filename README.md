@@ -1,3 +1,3 @@
 # hello-world
 ErrolProjectBallad
-Errol will e a front-end web developer
+Errol will be a front-end web developer
